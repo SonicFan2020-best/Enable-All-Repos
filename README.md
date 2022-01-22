@@ -2,4 +2,9 @@
 A shell script that enables all repos. (main, universe, restricted, multiverse)
 # Download
 Click this link: [Download latest release](https://github.com/SonicFan2020-best/Enable-All-Repos/releases/download/v1.0.1/enablerepos.sh)
-
+# Before you download, remember this.
+Before you execute the script, REMEMBER!
+`chmod +x enablerepos.sh`
+And ONLY then,
+`./enablerepos.sh`
+you can execute the script.

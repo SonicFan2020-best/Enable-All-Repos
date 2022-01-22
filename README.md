@@ -8,3 +8,5 @@ Before you execute the script, REMEMBER!
 And ONLY then,
 `./enablerepos.sh`
 you can execute the script.
+# After you execute the script:
+Do `sudo apt update` to make installing the packages from the repos possible.
